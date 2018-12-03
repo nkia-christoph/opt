@@ -1,0 +1,5 @@
+#wordlists
+wl-*.txt
+
+#bi-, tri, ngrammlogger
+ngrammlogger.c
